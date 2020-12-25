@@ -1,0 +1,10 @@
+{
+    "discordApiKey": "DO NOT COMMIT TO VERSION CONTROL",
+    "sendgridApiKey": "DO NOT COMMIT TO VERSION CONTROL",
+    "listenChannel": "",
+    "inviteChannel": "",
+    "prefix": "",
+    "fromAddress": "",
+    "acceptTemplateId": "",
+    "rejectTemplateId": ""
+}
